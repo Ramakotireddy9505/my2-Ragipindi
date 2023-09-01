@@ -7,8 +7,15 @@
 
 Araku Valley is a hill station and valley region in the southeastern Indian state of Andhra Pradesh. It's surrounded by the **thick forests** of the Eastern Ghats mountain range. The Tribal Museum is dedicated to the area's numerous **indigenous tribes**, known for their traditional Dhimsa dance, and showcases traditional handicrafts. A miniature train runs through Padmapuram Gardens, with its sculptures and tree-top huts.
 
-Favorite vacation spot
+**Favorite vacation spot Activities**
 
 1. Treaking
 2. Water rides
 3. Paragliding
+
+**Favorite dishes**
+
+* Bamboo chicken
+* coffee
+* Local Specials
+
