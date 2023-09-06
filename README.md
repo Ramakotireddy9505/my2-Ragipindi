@@ -37,3 +37,12 @@ In this table we have to discuss about sports and how may hours that i have to t
 | cricket   | it is a game to concentrate game to help improve the muscle strength and good physic        | 8 to 9 hours      |
 | base ball   | It is increase the strength and running speed and hand strength.        | 6 to 7 hours      |
 | soccer   | It is increase the speed and strength and fame to get the sport        | 8 to 10 hours      |
+
+
+
+# Favorite scientists.
+---
+
+> *Nikola Tesla* was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist best known for his contributions to the design of the modern alternating current electricity supply system.
+
+>*Avul Pakir Jainulabdeen Abdul Kalam BR* was an Indian aerospace scientist and statesman who served as the 11th president of India from 2002 to 2007. He was born and raised in Rameswaram, Tamil Nadu and studied physics and aerospace engineering
