@@ -25,3 +25,15 @@ Araku Valley is a hill station and valley region in the southeastern Indian stat
 [About me](MyStats.md)
 
 
+# Favorite sports that i would like to recommend to try others
+
+---
+
+In this table we have to discuss about sports and how may hours that i have to try for that specific sport.
+
+| Name of a sport.    | Reason to recomend it | How many hours to spend     | 
+| :---        |    :----:   |          ---: |
+| Foot ball    | It is world famous sport.It increase the health and physical strength.      | 6 to 8 hours  |
+| cricket   | it is a game to concentrate game to help improve the muscle strength and good physic        | 8 to 9 hours      |
+| base ball   | It is increase the strength and running speed and hand strength.        | 6 to 7 hours      |
+| soccer   | It is increase the speed and strength and fame to get the sport        | 8 to 10 hours      |
