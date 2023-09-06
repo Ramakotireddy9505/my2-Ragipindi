@@ -33,7 +33,7 @@ In this table we have to discuss about sports and how may hours that i have to t
 
 | Name of a sport.    | Reason to recomend it | How many hours to spend     | 
 | :---        |    :----:   |          ---: |
-| Foot ball    | It is world famous sport.It increase the health and physical strength.      | 6 to 8 hours  |
+| Foot ball    | It is world famous sport. It increase the health and physical strength.      | 6 to 8 hours  |
 | cricket   | it is a game to concentrate game to help improve the muscle strength and good physic        | 8 to 9 hours      |
 | base ball   | It is increase the strength and running speed and hand strength.        | 6 to 7 hours      |
 | soccer   | It is increase the speed and strength and fame to get the sport        | 8 to 10 hours      |
@@ -46,3 +46,27 @@ In this table we have to discuss about sports and how may hours that i have to t
 > *Nikola Tesla* was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist best known for his contributions to the design of the modern alternating current electricity supply system.
 
 >*Avul Pakir Jainulabdeen Abdul Kalam BR* was an Indian aerospace scientist and statesman who served as the 11th president of India from 2002 to 2007. He was born and raised in Rameswaram, Tamil Nadu and studied physics and aerospace engineering
+
+# code snippet using S number
+---
+
+
+
+>How to make an image fit into a simple auto-playing slideshow?
+
+
+https://stackoverflow.com/questions/65380644/how-to-make-an-image-fit-into-a-simple-auto-playing-slideshow
+
+
+     $("#slideshow > div:gt(0)").hide();
+     setInterval(function() { 
+    $('#slideshow > div:first')
+    .fadeOut(1000)
+    .next()
+    .fadeIn(1000)
+    .end()
+      .appendTo('#slideshow');
+        }, 3000);
+
+
+https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/
